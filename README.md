@@ -30,5 +30,5 @@ In Field Programmable Gate Arrays (FPGAs), there's interest for FFT acceleration
 
 ## Block Diagram
 
-<img src="https://github.com/Dhruv-Kumar-1/64-point_FFT/blob/main/DSP.drawio%20(3).png" alt="Block Diagram" width="50%">
+<img src="https://github.com/Dhruv-Kumar-1/64-point_FFT/blob/main/DSP.drawio%20(3).png" alt="Block Diagram" width="90%">
 
