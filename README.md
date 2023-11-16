@@ -2,15 +2,11 @@
 
 # Introduction
 
-The Discrete Fourier Transform (DFT) is a crucial tool in digital signal processing applications, playing a significant role in various domains such as digital communications, radar systems, Ultra-wideband (UWB) receivers, and more. However, the computational requirements of the DFT are substantial, involving a large number of operations, specifically N^2 complex multiplications and N(N-1) additions.
+The Discrete Fourier Transform (DFT) is essential in digital signal processing, used in applications like digital communications and radar systems. The computational demands of DFT are significant, involving O(N^2) operations.
 
-To address the computational challenges, the Fast Fourier Transform (FFT) algorithm was introduced by Cooley-Tukey, dramatically reducing the computational complexity from O(N^2) to O(NlogN). Subsequent advancements, such as radix-4 and split radix, further optimized FFT algorithms. These techniques, based on Decimation in Time Domain (DIT) or Decimation in Frequency (DIF), contribute to efficient FFT implementations.
+To address this, the Fast Fourier Transform (FFT) algorithm, introduced by Cooley-Tukey, reduces complexity to O(NlogN). Radix-4 and split radix further optimize FFTs based on Decimation in Time Domain (DIT) or Decimation in Frequency (DIF).
 
-In the realm of Field Programmable Gate Arrays (FPGAs), there's a growing interest due to their potential to substantially accelerate computational algorithms like FFTs. Higher-order FFTs can be implemented using high-cost FPGAs.
-
-In this project, we propose a combination logic for a Radix-4 64-point FFT processor. The architecture utilizes memory to store input data and processed output. It comprises three stages, each containing 16 4-point FFT blocks and 64 complex adders. Two of these stages incorporate 64 complex multipliers. Twiddle factors for multiplication are stored as a lookup table, directly connected to one of the complex inputs of the multipliers.
-
-This architecture aims to provide an efficient solution for FFT processing, leveraging the benefits of Radix-4 computation and FPGA acceleration.
+In Field Programmable Gate Arrays (FPGAs), there's interest for FFT acceleration. This project proposes a Radix-4 64-point FFT processor with three stages, each containing 16 4-point FFT blocks and 64 complex adders. Memory stores input and output data. The architecture utilizes FPGA acceleration, aiming for efficient FFT processing.
 
 ## Proposed Architecture
 
