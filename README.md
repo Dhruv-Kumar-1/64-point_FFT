@@ -26,9 +26,9 @@ In Field Programmable Gate Arrays (FPGAs), there's interest for FFT acceleration
 1. Outputs are stored in memory.
 2. The values obtained represent the final FFT values.
 
-![Block Diagram](https://github.com/Dhruv-Kumar-1/64-point_FFT/blob/main/Radix-4-3-butterfly-SFG%20(1).png)
+<img src="https://github.com/Dhruv-Kumar-1/64-point_FFT/blob/main/Radix-4-3-butterfly-SFG%20(1).png" alt="Block Diagram" width="50%">
 
 ## Block Diagram
 
-![Block Diagram](https://github.com/Dhruv-Kumar-1/64-point_FFT/blob/main/DSP.drawio%20(3).png)
+<img src="https://github.com/Dhruv-Kumar-1/64-point_FFT/blob/main/DSP.drawio%20(3).png" alt="Block Diagram" width="50%">
 
