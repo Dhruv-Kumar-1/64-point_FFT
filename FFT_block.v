@@ -21,8 +21,8 @@
 
 
 module FFT_block(i0,i1,i2,i3,j0,j1,j2,j3,y0,y1,y2,y3,z0,z1,z2,z3);
-input signed [11:0] i0,i1,i2,i3,j0,j1,j2,j3;//real part of inputs
-output signed [11:0] y0,y1,y2,y3,z0,z1,z2,z3;//imaginary part of inputs
+  input signed [11:0] i0,i1,i2,i3,j0,j1,j2,j3;//real and imaginary part of inputs
+  output signed [11:0] y0,y1,y2,y3,z0,z1,z2,z3;//real and imaginary part of inputs
 wire signed [11:0] a0 [1:0], a1 [1:0], a2 [1:0], a3 [1:0];//real part of outputs
 wire signed [11:0] b0 [1:0], b1 [1:0], b2 [1:0], b3 [1:0];//imaginary part of outputs
 
