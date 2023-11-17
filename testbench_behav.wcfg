@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="156"></NameColumnWidth>
+      <ValueColumnWidth column_width="326"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="256" />
+   <wvobject fp_name="/testbench/i0" type="array">
+      <obj_property name="ElementShortName">i0[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i0[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i1" type="array">
+      <obj_property name="ElementShortName">i1[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i1[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i10" type="array">
+      <obj_property name="ElementShortName">i10[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i10[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i11" type="array">
+      <obj_property name="ElementShortName">i11[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i11[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i12" type="array">
+      <obj_property name="ElementShortName">i12[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i12[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i13" type="array">
+      <obj_property name="ElementShortName">i13[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i13[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i14" type="array">
+      <obj_property name="ElementShortName">i14[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i14[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i15" type="array">
+      <obj_property name="ElementShortName">i15[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i15[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i16" type="array">
+      <obj_property name="ElementShortName">i16[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i16[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i17" type="array">
+      <obj_property name="ElementShortName">i17[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i17[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i18" type="array">
+      <obj_property name="ElementShortName">i18[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i18[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i19" type="array">
+      <obj_property name="ElementShortName">i19[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i19[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i2" type="array">
+      <obj_property name="ElementShortName">i2[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i2[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i20" type="array">
+      <obj_property name="ElementShortName">i20[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i20[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i21" type="array">
+      <obj_property name="ElementShortName">i21[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i21[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i22" type="array">
+      <obj_property name="ElementShortName">i22[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i22[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i23" type="array">
+      <obj_property name="ElementShortName">i23[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i23[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i24" type="array">
+      <obj_property name="ElementShortName">i24[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i24[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i25" type="array">
+      <obj_property name="ElementShortName">i25[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i25[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i26" type="array">
+      <obj_property name="ElementShortName">i26[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i26[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i27" type="array">
+      <obj_property name="ElementShortName">i27[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i27[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i28" type="array">
+      <obj_property name="ElementShortName">i28[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i28[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i29" type="array">
+      <obj_property name="ElementShortName">i29[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i29[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i3" type="array">
+      <obj_property name="ElementShortName">i3[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i3[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i30" type="array">
+      <obj_property name="ElementShortName">i30[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i30[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i31" type="array">
+      <obj_property name="ElementShortName">i31[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i31[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i32" type="array">
+      <obj_property name="ElementShortName">i32[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i32[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i33" type="array">
+      <obj_property name="ElementShortName">i33[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i33[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i34" type="array">
+      <obj_property name="ElementShortName">i34[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i34[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i35" type="array">
+      <obj_property name="ElementShortName">i35[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i35[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i36" type="array">
+      <obj_property name="ElementShortName">i36[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i36[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i37" type="array">
+      <obj_property name="ElementShortName">i37[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i37[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i38" type="array">
+      <obj_property name="ElementShortName">i38[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i38[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i39" type="array">
+      <obj_property name="ElementShortName">i39[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i39[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i4" type="array">
+      <obj_property name="ElementShortName">i4[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i4[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i40" type="array">
+      <obj_property name="ElementShortName">i40[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i40[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i41" type="array">
+      <obj_property name="ElementShortName">i41[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i41[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i42" type="array">
+      <obj_property name="ElementShortName">i42[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i42[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i43" type="array">
+      <obj_property name="ElementShortName">i43[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i43[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i44" type="array">
+      <obj_property name="ElementShortName">i44[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i44[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i45" type="array">
+      <obj_property name="ElementShortName">i45[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i45[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i46" type="array">
+      <obj_property name="ElementShortName">i46[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i46[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i47" type="array">
+      <obj_property name="ElementShortName">i47[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i47[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i48" type="array">
+      <obj_property name="ElementShortName">i48[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i48[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i49" type="array">
+      <obj_property name="ElementShortName">i49[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i49[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i5" type="array">
+      <obj_property name="ElementShortName">i5[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i5[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i50" type="array">
+      <obj_property name="ElementShortName">i50[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i50[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i51" type="array">
+      <obj_property name="ElementShortName">i51[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i51[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i52" type="array">
+      <obj_property name="ElementShortName">i52[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i52[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i53" type="array">
+      <obj_property name="ElementShortName">i53[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i53[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i54" type="array">
+      <obj_property name="ElementShortName">i54[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i54[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i55" type="array">
+      <obj_property name="ElementShortName">i55[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i55[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i56" type="array">
+      <obj_property name="ElementShortName">i56[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i56[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i57" type="array">
+      <obj_property name="ElementShortName">i57[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i57[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i58" type="array">
+      <obj_property name="ElementShortName">i58[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i58[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i59" type="array">
+      <obj_property name="ElementShortName">i59[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i59[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i6" type="array">
+      <obj_property name="ElementShortName">i6[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i6[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i60" type="array">
+      <obj_property name="ElementShortName">i60[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i60[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i61" type="array">
+      <obj_property name="ElementShortName">i61[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i61[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i62" type="array">
+      <obj_property name="ElementShortName">i62[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i62[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i63" type="array">
+      <obj_property name="ElementShortName">i63[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i63[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i7" type="array">
+      <obj_property name="ElementShortName">i7[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i7[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i8" type="array">
+      <obj_property name="ElementShortName">i8[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i8[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/i9" type="array">
+      <obj_property name="ElementShortName">i9[11:0]</obj_property>
+      <obj_property name="ObjectShortName">i9[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r0" type="array">
+      <obj_property name="ElementShortName">r0[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r0[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r1" type="array">
+      <obj_property name="ElementShortName">r1[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r1[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r10" type="array">
+      <obj_property name="ElementShortName">r10[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r10[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r11" type="array">
+      <obj_property name="ElementShortName">r11[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r11[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r12" type="array">
+      <obj_property name="ElementShortName">r12[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r12[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r13" type="array">
+      <obj_property name="ElementShortName">r13[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r13[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r14" type="array">
+      <obj_property name="ElementShortName">r14[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r14[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r15" type="array">
+      <obj_property name="ElementShortName">r15[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r15[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r16" type="array">
+      <obj_property name="ElementShortName">r16[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r16[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r17" type="array">
+      <obj_property name="ElementShortName">r17[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r17[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r18" type="array">
+      <obj_property name="ElementShortName">r18[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r18[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r19" type="array">
+      <obj_property name="ElementShortName">r19[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r19[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r2" type="array">
+      <obj_property name="ElementShortName">r2[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r2[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r20" type="array">
+      <obj_property name="ElementShortName">r20[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r20[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r21" type="array">
+      <obj_property name="ElementShortName">r21[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r21[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r22" type="array">
+      <obj_property name="ElementShortName">r22[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r22[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r23" type="array">
+      <obj_property name="ElementShortName">r23[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r23[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r24" type="array">
+      <obj_property name="ElementShortName">r24[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r24[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r25" type="array">
+      <obj_property name="ElementShortName">r25[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r25[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r26" type="array">
+      <obj_property name="ElementShortName">r26[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r26[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r27" type="array">
+      <obj_property name="ElementShortName">r27[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r27[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r28" type="array">
+      <obj_property name="ElementShortName">r28[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r28[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r29" type="array">
+      <obj_property name="ElementShortName">r29[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r29[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r3" type="array">
+      <obj_property name="ElementShortName">r3[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r3[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r30" type="array">
+      <obj_property name="ElementShortName">r30[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r30[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r31" type="array">
+      <obj_property name="ElementShortName">r31[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r31[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r32" type="array">
+      <obj_property name="ElementShortName">r32[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r32[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r33" type="array">
+      <obj_property name="ElementShortName">r33[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r33[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r34" type="array">
+      <obj_property name="ElementShortName">r34[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r34[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r35" type="array">
+      <obj_property name="ElementShortName">r35[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r35[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r36" type="array">
+      <obj_property name="ElementShortName">r36[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r36[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r37" type="array">
+      <obj_property name="ElementShortName">r37[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r37[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r38" type="array">
+      <obj_property name="ElementShortName">r38[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r38[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r39" type="array">
+      <obj_property name="ElementShortName">r39[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r39[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r4" type="array">
+      <obj_property name="ElementShortName">r4[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r4[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r40" type="array">
+      <obj_property name="ElementShortName">r40[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r40[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r41" type="array">
+      <obj_property name="ElementShortName">r41[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r41[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r42" type="array">
+      <obj_property name="ElementShortName">r42[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r42[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r43" type="array">
+      <obj_property name="ElementShortName">r43[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r43[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r44" type="array">
+      <obj_property name="ElementShortName">r44[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r44[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r45" type="array">
+      <obj_property name="ElementShortName">r45[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r45[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r46" type="array">
+      <obj_property name="ElementShortName">r46[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r46[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r47" type="array">
+      <obj_property name="ElementShortName">r47[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r47[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r48" type="array">
+      <obj_property name="ElementShortName">r48[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r48[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r49" type="array">
+      <obj_property name="ElementShortName">r49[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r49[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r5" type="array">
+      <obj_property name="ElementShortName">r5[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r5[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r50" type="array">
+      <obj_property name="ElementShortName">r50[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r50[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r51" type="array">
+      <obj_property name="ElementShortName">r51[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r51[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r52" type="array">
+      <obj_property name="ElementShortName">r52[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r52[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r53" type="array">
+      <obj_property name="ElementShortName">r53[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r53[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r54" type="array">
+      <obj_property name="ElementShortName">r54[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r54[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r55" type="array">
+      <obj_property name="ElementShortName">r55[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r55[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r56" type="array">
+      <obj_property name="ElementShortName">r56[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r56[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r57" type="array">
+      <obj_property name="ElementShortName">r57[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r57[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r58" type="array">
+      <obj_property name="ElementShortName">r58[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r58[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r59" type="array">
+      <obj_property name="ElementShortName">r59[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r59[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r6" type="array">
+      <obj_property name="ElementShortName">r6[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r6[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r60" type="array">
+      <obj_property name="ElementShortName">r60[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r60[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r61" type="array">
+      <obj_property name="ElementShortName">r61[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r61[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r62" type="array">
+      <obj_property name="ElementShortName">r62[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r62[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r63" type="array">
+      <obj_property name="ElementShortName">r63[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r63[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r7" type="array">
+      <obj_property name="ElementShortName">r7[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r7[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r8" type="array">
+      <obj_property name="ElementShortName">r8[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r8[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/r9" type="array">
+      <obj_property name="ElementShortName">r9[11:0]</obj_property>
+      <obj_property name="ObjectShortName">r9[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y0" type="array">
+      <obj_property name="ElementShortName">y0[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y0[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y1" type="array">
+      <obj_property name="ElementShortName">y1[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y1[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y10" type="array">
+      <obj_property name="ElementShortName">y10[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y10[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y11" type="array">
+      <obj_property name="ElementShortName">y11[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y11[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y12" type="array">
+      <obj_property name="ElementShortName">y12[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y12[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y13" type="array">
+      <obj_property name="ElementShortName">y13[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y13[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y14" type="array">
+      <obj_property name="ElementShortName">y14[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y14[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y15" type="array">
+      <obj_property name="ElementShortName">y15[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y15[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y16" type="array">
+      <obj_property name="ElementShortName">y16[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y16[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y17" type="array">
+      <obj_property name="ElementShortName">y17[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y17[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y18" type="array">
+      <obj_property name="ElementShortName">y18[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y18[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y19" type="array">
+      <obj_property name="ElementShortName">y19[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y19[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y2" type="array">
+      <obj_property name="ElementShortName">y2[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y2[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y20" type="array">
+      <obj_property name="ElementShortName">y20[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y20[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y21" type="array">
+      <obj_property name="ElementShortName">y21[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y21[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y22" type="array">
+      <obj_property name="ElementShortName">y22[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y22[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y23" type="array">
+      <obj_property name="ElementShortName">y23[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y23[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y24" type="array">
+      <obj_property name="ElementShortName">y24[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y24[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y25" type="array">
+      <obj_property name="ElementShortName">y25[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y25[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y26" type="array">
+      <obj_property name="ElementShortName">y26[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y26[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y27" type="array">
+      <obj_property name="ElementShortName">y27[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y27[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y28" type="array">
+      <obj_property name="ElementShortName">y28[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y28[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y29" type="array">
+      <obj_property name="ElementShortName">y29[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y29[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y3" type="array">
+      <obj_property name="ElementShortName">y3[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y3[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y30" type="array">
+      <obj_property name="ElementShortName">y30[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y30[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y31" type="array">
+      <obj_property name="ElementShortName">y31[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y31[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y32" type="array">
+      <obj_property name="ElementShortName">y32[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y32[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y33" type="array">
+      <obj_property name="ElementShortName">y33[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y33[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y34" type="array">
+      <obj_property name="ElementShortName">y34[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y34[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y35" type="array">
+      <obj_property name="ElementShortName">y35[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y35[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y36" type="array">
+      <obj_property name="ElementShortName">y36[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y36[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y37" type="array">
+      <obj_property name="ElementShortName">y37[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y37[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y38" type="array">
+      <obj_property name="ElementShortName">y38[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y38[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y39" type="array">
+      <obj_property name="ElementShortName">y39[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y39[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y4" type="array">
+      <obj_property name="ElementShortName">y4[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y4[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y40" type="array">
+      <obj_property name="ElementShortName">y40[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y40[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y41" type="array">
+      <obj_property name="ElementShortName">y41[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y41[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y42" type="array">
+      <obj_property name="ElementShortName">y42[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y42[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y43" type="array">
+      <obj_property name="ElementShortName">y43[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y43[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y44" type="array">
+      <obj_property name="ElementShortName">y44[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y44[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y45" type="array">
+      <obj_property name="ElementShortName">y45[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y45[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y46" type="array">
+      <obj_property name="ElementShortName">y46[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y46[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y47" type="array">
+      <obj_property name="ElementShortName">y47[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y47[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y48" type="array">
+      <obj_property name="ElementShortName">y48[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y48[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y49" type="array">
+      <obj_property name="ElementShortName">y49[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y49[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y5" type="array">
+      <obj_property name="ElementShortName">y5[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y5[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y50" type="array">
+      <obj_property name="ElementShortName">y50[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y50[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y51" type="array">
+      <obj_property name="ElementShortName">y51[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y51[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y52" type="array">
+      <obj_property name="ElementShortName">y52[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y52[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y53" type="array">
+      <obj_property name="ElementShortName">y53[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y53[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y54" type="array">
+      <obj_property name="ElementShortName">y54[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y54[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y55" type="array">
+      <obj_property name="ElementShortName">y55[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y55[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y56" type="array">
+      <obj_property name="ElementShortName">y56[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y56[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y57" type="array">
+      <obj_property name="ElementShortName">y57[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y57[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y58" type="array">
+      <obj_property name="ElementShortName">y58[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y58[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y59" type="array">
+      <obj_property name="ElementShortName">y59[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y59[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y6" type="array">
+      <obj_property name="ElementShortName">y6[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y6[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y60" type="array">
+      <obj_property name="ElementShortName">y60[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y60[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y61" type="array">
+      <obj_property name="ElementShortName">y61[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y61[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y62" type="array">
+      <obj_property name="ElementShortName">y62[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y62[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y63" type="array">
+      <obj_property name="ElementShortName">y63[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y63[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y7" type="array">
+      <obj_property name="ElementShortName">y7[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y7[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y8" type="array">
+      <obj_property name="ElementShortName">y8[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y8[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/y9" type="array">
+      <obj_property name="ElementShortName">y9[11:0]</obj_property>
+      <obj_property name="ObjectShortName">y9[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z0" type="array">
+      <obj_property name="ElementShortName">z0[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z0[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z1" type="array">
+      <obj_property name="ElementShortName">z1[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z1[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z10" type="array">
+      <obj_property name="ElementShortName">z10[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z10[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z11" type="array">
+      <obj_property name="ElementShortName">z11[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z11[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z12" type="array">
+      <obj_property name="ElementShortName">z12[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z12[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z13" type="array">
+      <obj_property name="ElementShortName">z13[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z13[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z14" type="array">
+      <obj_property name="ElementShortName">z14[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z14[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z15" type="array">
+      <obj_property name="ElementShortName">z15[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z15[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z16" type="array">
+      <obj_property name="ElementShortName">z16[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z16[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z17" type="array">
+      <obj_property name="ElementShortName">z17[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z17[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z18" type="array">
+      <obj_property name="ElementShortName">z18[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z18[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z19" type="array">
+      <obj_property name="ElementShortName">z19[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z19[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z2" type="array">
+      <obj_property name="ElementShortName">z2[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z2[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z20" type="array">
+      <obj_property name="ElementShortName">z20[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z20[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z21" type="array">
+      <obj_property name="ElementShortName">z21[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z21[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z22" type="array">
+      <obj_property name="ElementShortName">z22[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z22[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z23" type="array">
+      <obj_property name="ElementShortName">z23[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z23[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z24" type="array">
+      <obj_property name="ElementShortName">z24[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z24[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z25" type="array">
+      <obj_property name="ElementShortName">z25[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z25[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z26" type="array">
+      <obj_property name="ElementShortName">z26[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z26[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z27" type="array">
+      <obj_property name="ElementShortName">z27[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z27[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z28" type="array">
+      <obj_property name="ElementShortName">z28[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z28[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z29" type="array">
+      <obj_property name="ElementShortName">z29[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z29[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z3" type="array">
+      <obj_property name="ElementShortName">z3[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z3[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z30" type="array">
+      <obj_property name="ElementShortName">z30[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z30[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z31" type="array">
+      <obj_property name="ElementShortName">z31[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z31[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z32" type="array">
+      <obj_property name="ElementShortName">z32[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z32[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z33" type="array">
+      <obj_property name="ElementShortName">z33[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z33[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z34" type="array">
+      <obj_property name="ElementShortName">z34[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z34[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z35" type="array">
+      <obj_property name="ElementShortName">z35[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z35[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z36" type="array">
+      <obj_property name="ElementShortName">z36[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z36[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z37" type="array">
+      <obj_property name="ElementShortName">z37[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z37[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z38" type="array">
+      <obj_property name="ElementShortName">z38[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z38[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z39" type="array">
+      <obj_property name="ElementShortName">z39[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z39[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z4" type="array">
+      <obj_property name="ElementShortName">z4[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z4[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z40" type="array">
+      <obj_property name="ElementShortName">z40[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z40[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z41" type="array">
+      <obj_property name="ElementShortName">z41[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z41[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z42" type="array">
+      <obj_property name="ElementShortName">z42[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z42[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z43" type="array">
+      <obj_property name="ElementShortName">z43[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z43[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z44" type="array">
+      <obj_property name="ElementShortName">z44[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z44[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z45" type="array">
+      <obj_property name="ElementShortName">z45[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z45[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z46" type="array">
+      <obj_property name="ElementShortName">z46[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z46[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z47" type="array">
+      <obj_property name="ElementShortName">z47[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z47[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z48" type="array">
+      <obj_property name="ElementShortName">z48[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z48[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z49" type="array">
+      <obj_property name="ElementShortName">z49[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z49[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z5" type="array">
+      <obj_property name="ElementShortName">z5[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z5[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z50" type="array">
+      <obj_property name="ElementShortName">z50[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z50[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z51" type="array">
+      <obj_property name="ElementShortName">z51[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z51[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z52" type="array">
+      <obj_property name="ElementShortName">z52[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z52[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z53" type="array">
+      <obj_property name="ElementShortName">z53[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z53[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z54" type="array">
+      <obj_property name="ElementShortName">z54[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z54[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z55" type="array">
+      <obj_property name="ElementShortName">z55[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z55[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z56" type="array">
+      <obj_property name="ElementShortName">z56[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z56[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z57" type="array">
+      <obj_property name="ElementShortName">z57[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z57[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z58" type="array">
+      <obj_property name="ElementShortName">z58[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z58[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z59" type="array">
+      <obj_property name="ElementShortName">z59[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z59[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z6" type="array">
+      <obj_property name="ElementShortName">z6[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z6[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z60" type="array">
+      <obj_property name="ElementShortName">z60[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z60[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z61" type="array">
+      <obj_property name="ElementShortName">z61[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z61[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z62" type="array">
+      <obj_property name="ElementShortName">z62[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z62[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z63" type="array">
+      <obj_property name="ElementShortName">z63[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z63[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z7" type="array">
+      <obj_property name="ElementShortName">z7[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z7[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z8" type="array">
+      <obj_property name="ElementShortName">z8[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z8[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/z9" type="array">
+      <obj_property name="ElementShortName">z9[11:0]</obj_property>
+      <obj_property name="ObjectShortName">z9[11:0]</obj_property>
+   </wvobject>
+</wave_config>
